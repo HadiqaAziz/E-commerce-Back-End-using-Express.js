@@ -38,12 +38,12 @@ Follow these steps to install and set up the project locally.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/e-commerce-back-end-using-express.js.git
+   git clone https://github.com/HadiqaAziz/E-commerce-Back-End-using-Express.js.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd e-commerce-back-end-using-express.js
+   cd E-commerce-Back-End-using-Express.js
    ```
 
 3. **Install Dependencies**:
